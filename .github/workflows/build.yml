@@ -1,6 +1,6 @@
 name: Build
 env:
-  DOCKER_BASE_NAME: ghcr.io/ffxivita/dalamud-download-counter
+  DOCKER_BASE_NAME: ghcr.io/ffxivita/xivita-dalamud-download-counter
 
 on:
   push:
